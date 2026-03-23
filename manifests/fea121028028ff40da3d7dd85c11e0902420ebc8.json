@@ -1,0 +1,29 @@
+{
+  "commit": "fea121028028ff40da3d7dd85c11e0902420ebc8",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/fea121028028ff40da3d7dd85c11e0902420ebc8.nq.gz",
+      "size_bytes": 1347568
+    },
+    "dep": {
+      "path": "dep/fea121028028ff40da3d7dd85c11e0902420ebc8.nq.gz",
+      "size_bytes": 461
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "tomlkit",
+      "packageVersion": "0.9.2",
+      "githubOrg": "sdispater",
+      "githubRepo": "tomlkit",
+      "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    }
+  ]
+}
