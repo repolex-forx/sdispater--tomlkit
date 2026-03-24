@@ -1,0 +1,36 @@
+{
+  "commit": "4055d0689aee49086561a7a7dab4dae408b2369f",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/4055d0689aee49086561a7a7dab4dae408b2369f.nq.gz",
+      "size_bytes": 1487403
+    },
+    "dep": {
+      "path": "dep/4055d0689aee49086561a7a7dab4dae408b2369f.nq.gz",
+      "size_bytes": 547
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "tomlkit",
+      "packageVersion": "0.9.2",
+      "githubOrg": "sdispater",
+      "githubRepo": "tomlkit",
+      "githubCommit": "1c22797bc5227c6e9eb9c82ccfeb8ea52294a813"
+    },
+    {
+      "packageName": "functools32",
+      "packageVersion": "3.2.3.post2",
+      "githubOrg": "MiCHiLU",
+      "githubRepo": "python-functools32",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
